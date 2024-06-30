@@ -26,15 +26,13 @@
     </tr>
   </table>
 
-- 🔭 I’m currently working on **developing and deploying production level ML Model code.**
+- 🌱 I’m currently learning ** Data Analytics, Machine Learning, Deep Learning, Natural Language Processing, MLOps and Computer Vision.**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, MLOps and Computer Vision.**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects.**
+- 👯 I’m looking to collaborate on ** Data Analysis, Machine Learning and Deep Learning Projects.**
 
 - 📝 I regularly write articles on [https://medium.com/@theabhasharma](https://medium.com/@theabhasharma)
 
-- 💬 Ask me about **Data Visualisation, Big Data and Responsible and Ethical AI, Machine Learning and Deep Learning.**
+- 💬 Ask me about **Data Visualisation, Exploratory Data Analysis(EDA), Responsible and Ethical AI, Machine Learning and Deep Learning.**
 
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/the-abha-sharma//" target="_blank">
