@@ -1,4 +1,4 @@
-### Hi there I'm Abha Sharma👋 A passionate data science and machine learning enthusiast from India 🇮🇳 
+### Helo👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theabhasharma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -26,17 +26,12 @@
     </tr>
   </table>
 
-- 🌱 I’m currently learning ** Data Analytics, Machine Learning, Deep Learning, Natural Language Processing, MLOps and Computer Vision.**
-
-- 👯 I’m looking to collaborate on ** Data Analysis, Machine Learning and Deep Learning Projects.**
+- 🌱 ** Data Science| Python | Machine Learning **
 
 - 📝 I regularly write articles on [https://medium.com/@theabhasharma](https://medium.com/@theabhasharma)
 
-- 💬 Ask me about **Data Visualisation, Exploratory Data Analysis(EDA), Responsible and Ethical AI, Machine Learning and Deep Learning.**
-
-
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/the-abha-sharma//" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <>
   </a> <a href="mailto:abha.sharmaa111@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
