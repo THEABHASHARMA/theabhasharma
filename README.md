@@ -1,13 +1,7 @@
-### helo👋
+### helo 👋
 
-- 🌱 ** Data Science| Python | Machine Learning **
 
-- 📝 I regularly write articles on [https://medium.com/@theabhasharma](https://medium.com/@theabhasharma)
+- 🌱 Data Analytics | Python | Machine Learning
+- 📫 [LinkedIn](https://www.linkedin.com/in/the-abha-sharma), [Gmail](mailto:abha.sharmaa111@gmail.com), [Medium](https://medium.com/@theabhasharma)
 
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/the-abha-sharma/" target="_blank" style="display: flex; align-items: center;">
-    - 📫 LinkedIn
-  </a>
-  <a href="mailto:abha.sharmaa111@gmail.com" target="_blank" style="margin-left: 10px;">Gmail
-  </a>
-</div>
+
