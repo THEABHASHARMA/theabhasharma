@@ -6,7 +6,7 @@
 </div> -->
 <!-- <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
 
-   <!--<table>
+   <!-- <table>
     <tr>
       <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
@@ -24,7 +24,7 @@
          <a href="https://github.com/theabhasharma"> <img src="https://komarev.com/ghpvc/?username=theabhasharma&style=for-the-badge&color=brightgreen"></a>
       </td>
     </tr>
-  </table>
+   <!-- </table> 
 
 - 🌱 ** Data Science| Python | Machine Learning **
 
