@@ -1,4 +1,4 @@
-### Helo👋
+### helo👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theabhasharma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -31,11 +31,11 @@
 - 📝 I regularly write articles on [https://medium.com/@theabhasharma](https://medium.com/@theabhasharma)
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/the-abha-sharma//" target="_blank">
-    <>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a> <a href="mailto:abha.sharmaa111@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> 
@@ -53,4 +53,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
+
+
 <br><br> 
