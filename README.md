@@ -1,16 +1,54 @@
-## Hi there 👋
 
-<!--
-**THEABHASHARMA/theabhasharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Abha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;</p>
+
+✨ **About Me in 30 secs**✨
+
+- 💉 I have an application development background, and now I am a data analyst.
+- 👀 I love learning new skills
+- 🌱 I’m currently learning Data Analytics, Machine Learning, Deep Learning, Natural Language Processing, MLOps and Computer Vision.
+- 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
+
+
+- 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/the-abha-sharma/)
+
+ 
+ 
+<p>&nbsp;</p>
+ 
+ 💡**Skills**💡:
+ 
+- SQL 
+- Tableau
+- Microsoft Excel
+- Python
+- Hypothesis Testing
+
+ <p>&nbsp;</p>
+
+
+
+ 
+ 
+<p>&nbsp;</p>
+ 
+ ⚡**Projects on Tableau**⚡ 
+
+ - **Sales Dashboard**: Click [HERE](https://public.tableau.com/app/profile/abha6243/viz/SalesDashboardSwiftMart/Story1)
+
+ 
+ <p>&nbsp;</p>
+ 
+ 
+ 👩‍💻**Projects on SQL**👩‍💻
+ 
+- **Target Case Study**: Click [HERE](https://github.com/THEABHASHARMA/TargetCaseStudySQL)
+
+
+
+
+
+
+ <p>&nbsp;</p>
