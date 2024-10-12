@@ -45,8 +45,7 @@
  👩‍💻**Projects on SQL**👩‍💻
  
 - **Target Case Study**: Click [HERE](https://github.com/THEABHASHARMA/TargetCaseStudySQL)
-
-
+- **E-commerce SQL Analysis: Click [HERE](https://github.com/THEABHASHARMA/E-commerceSQLAnalysis)
 
 
 
